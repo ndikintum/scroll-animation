@@ -29,7 +29,7 @@ h1 {
   height: 180px;
   margin: 10px;
   border-radius: 10px;
-  box-shadow: 2px 4px 5px rgb(0, 0, 0, 0.5);
+  box-shadow: 2px 4px 5px #00000080;
   transform: translateX(250%);
   transition: transform 0.5s ease;
 }
